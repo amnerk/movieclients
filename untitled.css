@@ -1,0 +1,23 @@
+img{
+    width:90px;
+    height:40px;
+}
+#contain{
+    display:flex;
+    border:solid black;
+}
+#left{
+    width:50%;
+    background-color:grey;
+    text-align:center;
+}
+#right{
+ width:50%;   
+ text-align:center;
+}
+#leftH2{
+    width:100%;
+    background-color:white;
+    color:black;
+     
+}
